@@ -10,6 +10,6 @@
   </ul>
   </nav>
   <p> Hello!  Thank you for coming to read my first webpage! I am new to coding and am hoping to learn more for a possible career change.  I am a cat momma to one furbaby.  I enjoy reading, travelling and participating in new expiriences. </p>
-  <img src= 
+  <img src= "21457975_933370393478737_878973440110008526_o.jpg" />
   </body>
  </html>
