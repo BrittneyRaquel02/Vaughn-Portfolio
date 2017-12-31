@@ -1,7 +1,7 @@
 <!DOCTYPE html>
   <html>
   <body>
-  <h1> Brittney Vaughn </h1>
+  <header> Brittney Vaughn </header>
   <nav>
   <ul>
     <li><a href="index.html,">Home</a></li>
