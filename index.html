@@ -15,5 +15,6 @@
   <img src= "21457975_933370393478737_878973440110008526_o.jpg" alt= "me in Rome"/>
   <img src= "14117951_644337952381984_2968771411436229032_n.jpg" alt= "me at Chichen Itza"/>
   <img src= "55707d026636855dcd767e158596ba98 - Edited.jpg" alt= "my furbaby"/>
+  <a href="https://www.linkedin.com/in/brittney-v-68281675/">Add me on Linkedin!</a>
   </body>
  </html>
