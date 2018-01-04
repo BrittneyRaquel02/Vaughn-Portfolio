@@ -8,3 +8,11 @@ header {
 a:hover {
   color: green;
 }
+
+img {
+    border-radius: 25 px;
+}
+
+img {
+    box-shadow: 5px 10px;
+}
