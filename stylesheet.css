@@ -1,18 +1,16 @@
-
+<!DOCTYPE html>
+<head></head>
+<body>
 <meta name= "viewport" content= "width=device width, initial-scale=1.0"
+</body>
 
-header {
-    text-align: center;
-}
+.header 
+.container
+margin: 0 auto
 
-a:hover {
-  color: green;
-}
+a:hover {color: green;}
 
-img {
-    border-radius: 25 px;
-}
+img {border-radius: 25 px;}
 
-img {
-    box-shadow: 5px 10px;
-}
+img { box-shadow: 5px 10px;}
+
