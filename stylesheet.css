@@ -2,7 +2,7 @@
 <head></head>
 <body>
 <meta name= "viewport" content= "width=device width, initial-scale=1.0"
-</body>
+
 
 .header 
 .container
@@ -26,4 +26,8 @@ margin: o auto
     padding-bottom: 10px;
     padding-left: 10px; }
 
+@media (min-width: 600px)
+p{ font-size: 1.25rem;
+}
 
+</body>
