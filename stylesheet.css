@@ -26,8 +26,9 @@ margin: o auto
     padding-bottom: 10px;
     padding-left: 10px; }
 
-@media (min-width: 600px)
-p{ font-size: 1.25rem;
+@media screen only and {
+    (height: auto)
+    (max-width: 100%)
 }
-
+    
 </body>
